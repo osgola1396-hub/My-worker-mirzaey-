@@ -1,7 +1,6 @@
 // Cloudflare Worker
 
-const WORKER_URL = "my-worker.aporis3674.workers.dev
-";
+const WORKER_URL = "my-worker.aporis3674.workers.dev";
 
 const DEFAULT_UPSTREAM_TIMEOUT_MS = 25000;
 
