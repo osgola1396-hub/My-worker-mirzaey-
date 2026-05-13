@@ -1,4 +1,3 @@
-
 /**
  * MHR-CFW Exit Worker — Cloudflare Workers companion to Code.cfw.gs.
  *
