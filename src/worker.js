@@ -74,7 +74,7 @@
  * check and batch handling. Upstream credit: github.com/denuitt1/mhr-cfw.
  */
 
-const AUTH_KEY = "CHANGE_ME_TO_A_STRONG_SECRET";
+const AUTH_KEY = "GohBadKir3674";
 const DEFAULT_AUTH_KEY = "CHANGE_ME_TO_A_STRONG_SECRET";
 
 // Loop-prevention tag. The Worker tags its OUTBOUND request to the
