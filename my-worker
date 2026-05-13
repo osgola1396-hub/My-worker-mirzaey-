@@ -1,2 +1,0 @@
-name = "my-worker"
-main = "src/worker.js"
